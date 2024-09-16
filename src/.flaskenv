@@ -1,0 +1,4 @@
+FLASK_APP=GGalop
+FLASK_DEBUG=True
+
+

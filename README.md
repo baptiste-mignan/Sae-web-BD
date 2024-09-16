@@ -17,3 +17,8 @@ pour cette SAE nous devons faire un site web et BDD pour un club de poney
 - [ ] HTML
 - [ ] css
 - [ ] JS
+
+
+Access-Control-Allow-Credentials
+Access-Control-Allow-Origin
+https://en.wikipedia.org/wiki/Same-origin_policy
