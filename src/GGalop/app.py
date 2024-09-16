@@ -1,3 +1,4 @@
 from flask import Flask
 
-app = Flask("Grand Galop")
+app = Flask(__name__, static_folder='static')  
+
