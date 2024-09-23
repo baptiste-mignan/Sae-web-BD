@@ -95,7 +95,7 @@
           <mxGeometry x="360" y="230" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="h7xVEBj8XtHK8gHXebEV-67" value="1,1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7xVEBj8XtHK8gHXebEV-68" value="1,1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="190" width="60" height="30" as="geometry" />
@@ -104,25 +104,31 @@
           <mxGeometry x="320" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7xVEBj8XtHK8gHXebEV-70" value="0,10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="540" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7xVEBj8XtHK8gHXebEV-79" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Contraintes&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Les poneys doivent avoir au moins 1 heure de repos après 2 heures de cours&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;la personne ne doit pas dépasser les poids max du poney&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;durée du cours 1 ou 2 heures&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Une personne peut réserver un cour si et seulement si un poney est disponible &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="73" y="570" width="650" height="240" as="geometry" />
+          <mxGeometry x="73" y="740" width="650" height="240" as="geometry" />
         </mxCell>
         <mxCell id="h7xVEBj8XtHK8gHXebEV-83" value="le moniteur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_sw9qbzKlEHNV8ZJurar-1" value="Cours" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="20" width="140" height="120" as="geometry" />
+          <mxGeometry x="510" y="30" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="_sw9qbzKlEHNV8ZJurar-2" value="estParticulier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
+        <mxCell id="_sw9qbzKlEHNV8ZJurar-2" value="idCours" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_sw9qbzKlEHNV8ZJurar-3" value="duree" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
+        <mxCell id="_sw9qbzKlEHNV8ZJurar-22" value="estParticulier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_sw9qbzKlEHNV8ZJurar-4" value="&lt;div&gt;prix&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
+        <mxCell id="_sw9qbzKlEHNV8ZJurar-3" value="duree" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sw9qbzKlEHNV8ZJurar-21" value="type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_sw9qbzKlEHNV8ZJurar-4" value="&lt;div&gt;prix&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_sw9qbzKlEHNV8ZJurar-1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_sw9qbzKlEHNV8ZJurar-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.014;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h7xVEBj8XtHK8gHXebEV-65" target="_sw9qbzKlEHNV8ZJurar-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
